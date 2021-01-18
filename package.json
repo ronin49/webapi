@@ -1,0 +1,15 @@
+{
+  "name": "dasljk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jasmine": "^3.6.3"
+  }
+}
